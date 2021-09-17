@@ -22,8 +22,8 @@ Sintaxis básica de python
 <!--    * [**PENDIENTE** - Aritméticos](basico/md/)-->
 <!--    * [**PENDIENTE** - Incremento y decremento](basico/md/)-->
 
-<!-- ### **Control de flujo** -->
-<!-- * [Control de flujo](basico/md/decisiones/decisiones.md) -->
+### **Control de flujo**
+* [Control de flujo](basico/md/decisiones/decisiones.md)
 <!--    * [**PENDIENTE** - If](basico/md/)-->
 <!--    * [**PENDIENTE** - If else](basico/md/)-->
 <!--    * [**PENDIENTE** - Switch](basico/md/)-->
