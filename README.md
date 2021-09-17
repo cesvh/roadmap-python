@@ -14,8 +14,8 @@ Sintaxis básica de python
 <!--    * [**PENDIENTE** - Entrada de datos](basico/md/)-->
 <!--    * [**PENDIENTE** - Salida de datos](basico/md/io/input/prompt.md)-->
 
-<!-- ### **Operadores** -->
-<!-- * [Operadores](basico/md/operadores/operadores.md) -->
+### **Operadores**
+* [Operadores](basico/md/operadores/operadores.md)
 <!--    * [**PENDIENTE** - Booleanos](basico/md/)-->
 <!--    * [**PENDIENTE** - Asignación](basico/md/)-->
 <!--    * [**PENDIENTE** - Relacionales o Comparación](basico/md/)-->
