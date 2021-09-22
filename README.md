@@ -29,8 +29,8 @@ Sintaxis básica de python
 <!--    * [**PENDIENTE** - Switch](basico/md/)-->
 <!--    * [**PENDIENTE** - Ternario](basico/md/)-->
 
-<!-- ### **Ciclos** -->
-<!-- * [Ciclos](basico/md/) -->
+### **Ciclos**
+* [Ciclos](basico/md/ciclos/ciclos.md)
 <!--    * [**PENDIENTE** - While](basico/md/)-->
 <!--    * [**PENDIENTE** - Do/While](basico/md/)-->
 <!--    * [**PENDIENTE** - For](basico/md/)-->
