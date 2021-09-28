@@ -41,8 +41,8 @@ Sintaxis básica de python
 <!--        * [**PENDIENTE** - Unidimensionales](basico/md/)-->
 <!--        * [**PENDIENTE** - Bidimensionales](basico/md/)-->
 
-<!-- ### **Funciones** -->
-<!-- * [Funciones](basico/md/) -->
+### **Funciones**
+* [Funciones](basico/md/function/function.md)
 <!--    * [**PENDIENTE** - Funciones con parámetros](basico/md/)-->
 <!--    * [**PENDIENTE** - Funciones con return](basico/md/)-->
 
