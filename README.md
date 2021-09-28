@@ -35,8 +35,8 @@ Sintaxis básica de python
 <!--    * [**PENDIENTE** - Do/While](basico/md/)-->
 <!--    * [**PENDIENTE** - For](basico/md/)-->
 
-<!-- ### **Estructura de datos básica** -->
-<!-- * [Estructura de datos](basico/md/) -->
+### **Estructura de datos básica**
+* [Estructura de datos](basico/md/estructura_de_datos/estructura_de_datos.md)
 <!--    * [**PENDIENTE** - Arreglos](basico/md/)
 <!--        * [**PENDIENTE** - Unidimensionales](basico/md/)-->
 <!--        * [**PENDIENTE** - Bidimensionales](basico/md/)-->
