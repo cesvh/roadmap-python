@@ -46,6 +46,8 @@ Sintaxis básica de python
 <!--    * [**PENDIENTE** - Funciones con parámetros](basico/md/)-->
 <!--    * [**PENDIENTE** - Funciones con return](basico/md/)-->
 
+### **Ejercicios con los temas tratados hasta éste punto**
+* [Ejercicios](basico/md/ejercicios/ejercicios.md)
 <!-- --- -->
 
 <!-- [**PENDIENTE** - Lectura recomendada]() -->
