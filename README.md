@@ -41,7 +41,7 @@ Sintaxis básica de python
 <!--        * [**PENDIENTE** - Unidimensionales](basico/md/)-->
 <!--        * [**PENDIENTE** - Bidimensionales](basico/md/)-->
 
-### **Funciones**
+### **Errores**
 * [Errores](basico/md/errores/errores.md)
 
 ### **Funciones**
