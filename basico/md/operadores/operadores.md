@@ -3,6 +3,7 @@
 
 ## **Lógicos**
 
+### **Code:**
 ```py
 >>> 
 >>> 1 == 1 and "a" == "A"
@@ -20,6 +21,7 @@ False
 
 ## **Relacionales o Comparación**
 
+### **Code:**
 ```py
 >>>
 >>> 1 == 1
@@ -43,6 +45,7 @@ True
 
 ## **Asignación**
 
+### **Code:**
 ```py
 >>>
 >>> user_name = "Pársec"
@@ -56,6 +59,7 @@ True
 
 ## **Aritméticos**
 
+### **Code:**
 ```py
 >>>
 >>> 2 + 9
@@ -85,8 +89,8 @@ True
 
 ## **Incremento y Decremento**
 
+### **Code:**
 ```py
-
 ```
 
 ---
