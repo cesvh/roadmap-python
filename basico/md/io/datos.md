@@ -1,22 +1,15 @@
 # **Datos**
 
+### **Code:**
 ```py
->>> 
->>> user_name = input("Name: ")
+user_name = input("Name: ")
+
+print(user_name)
+```
+
+### **Result:**
+```py
 Name: César
->>> 
->>> print(user_name)
-César
->>> 
-```
-
-```py
-```
-
-```py
-```
-
-```py
 ```
 
 ```py
