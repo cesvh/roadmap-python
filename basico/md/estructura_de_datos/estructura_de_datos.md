@@ -1,5 +1,6 @@
 # **Estructura de datos**
 
+### **Code:**
 ```py
 list = [2, 9, 9]
 
@@ -17,6 +18,9 @@ list.pop(3)
 
 print(list)
 ```
+### **Result:**
+```
+```
 
 ```sh
 [2, 9, 9, 7, 9, 2, 4, 5, 8]
@@ -27,6 +31,7 @@ Process finished with exit code 0
 
 ---
 
+### **Code:**
 ```py
 list = [2, 9, 9]
 
@@ -52,6 +57,9 @@ list.insert(3, 7)
 print(list)
 list.insert(8, 8)
 print(list)
+```
+### **Result:**
+```
 ```
 
 ```sh

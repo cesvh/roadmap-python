@@ -1,5 +1,6 @@
 # **Funciones**
 
+### **Code:**
 ```py
 def fncReturn(year):
     return f'ly: {year}'
@@ -18,6 +19,10 @@ def start():
 
 if __name__ == '__main__':
     start()
+```
+
+### **Result:**
+```
 ```
 
 ```sh

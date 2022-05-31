@@ -1,5 +1,6 @@
 # **Tratamiento de errores**
 
+### **Code:**
 ```py
 try:
     a = 5
@@ -9,6 +10,9 @@ except:
     print('Some error occurred.')
 
 print("Out of try except blocks.")
+```
+### **Result:**
+```
 ```
 
 ```sh

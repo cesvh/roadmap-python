@@ -1,5 +1,6 @@
 # **Ejercicios con los temas tratados hasta éste punto**
 
+### **Code:**
 ```py
 def fnc_is_prime(number):
     flag = True
@@ -22,4 +23,7 @@ def fnc_start():
 
 if __name__ == '__main__':
     fnc_start()
+```
+### **Result:**
+```
 ```
