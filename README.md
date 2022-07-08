@@ -9,7 +9,7 @@ Sintaxis básica de python
 ### **Variables**
 * [Variables](basico/md/variables/variables.md)
 
-### **Datos**
+### **Entrada y salida de Datos**
 * [Datos](basico/md/io/datos.md)
 <!--    * [**PENDIENTE** - Entrada de datos](basico/md/)-->
 <!--    * [**PENDIENTE** - Salida de datos](basico/md/io/input/prompt.md)-->
