@@ -23,7 +23,7 @@ if username == "parsec":
 else:
     print(f"else: {username}")
 ```
-### **Result:**
+### **Resultado:**
 ```
 else: Parsec
 ```
@@ -41,7 +41,7 @@ else:
     print(f"else: {username}")
 ```
 
-### **Result:**
+### **Resultado:**
 ```
 else: Parsec
 ```
