@@ -1,52 +1,47 @@
 # **Decisiones**
 
-## **if**
+## **Biburcaciones**
 
-### **Code:**
+### **if:**
 ```py
-user_name = "Parsec"
-
-if user_name == "Parsec":
-    print("True")
+username = "Parsec"
+if username == "Parsec":
+    print(f"if: {username}")
 ```
-### **Result:**
+### **Resultado:**
 ```
+if: Parsec
 ```
 
 ---
 
-## **else**
-
-### **Code:**
+### **else:**
 ```py
-user_name = "Parsec"
-
-if user_name == "Pars":
-    print("True")
+username = "Parsec"
+if username == "parsec":
+    print(f"if: {username}")
 else:
-    print("False")
+    print(f"else: {username}")
 ```
 ### **Result:**
 ```
+else: Parsec
 ```
 
 ---
 
-## **elif**
-
-### **Code:**
+### **elif:**
 ```py
-user_name = "Parsec"
-
-if user_name == "Pars":
-    print("False")
-elif user_name == "Parsec":
-    print("True")
+username = "Parsec"
+if username == "parsec":
+    print(f"if: {username}")
+elif username == "parse":
+    print(f"elif: {username}")
 else:
-    print("False")
+    print(f"else: {username}")
 ```
+
 ### **Result:**
 ```
+else: Parsec
 ```
-
----
