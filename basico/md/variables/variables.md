@@ -1,43 +1,49 @@
 # **Variables**
 
-### **Code:**
+### **Variable de tipo String:**
 ```py
-user_name = "Pársec"
+user_name = "parsec"
 print(user_name)
 print(type(user_name))
 ```
-### **Result:**
+### **Resultado:**
 ```
-Pársec
+parsec
 <class 'str'>
 ```
 
-### **Code:**
+### **Variable de tipo Entero:**
 ```py
-user_year_old = 120
-print(user_year_old)
+user_date = 91
+print(user_date)
+print(type(user_date))
 ```
-### **Result:**
+### **Resultado:**
 ```
-120
+91
+<class 'int'>
 ```
 
-### **Code:**
+### **Variable de tipo Float:**
 ```py
 user_money = 999999999999999.9999999999999
 print(user_money)
+print(type(user_money))
 ```
-### **Result:**
+### **Resultado:**
 ```
 1000000000000000.0
+<class 'float'>
 ```
 
-### **Code:**
+### **Variable de tipo Boleano:**
 ```py
 user_flag = True
 print(user_flag)
+print(type(user_flag))
 ```
-### **Result:**
+### **Resultado:**
 ```
 True
+<class 'bool'>
 ```
