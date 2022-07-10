@@ -1,78 +1,76 @@
 # **Estructura de datos**
+## **Lista**
 
-### **Code:**
+### **base:**
 ```py
-list = [2, 9, 9]
+list = [2, 9, 9, 7, 9, 2]
+print(type(list))
+print(list)
+print(list[0])
+print(list[1])
+print(list[len(list) - 1])
+```
 
+### **Resultado:**
+```
+<class 'list'>
+[2, 9, 9, 7, 9, 2]
+2
+9
+2
+```
+
+### **append:**
+```py
+list = [2, 9]
+list.append(9)
 list.append(7)
 list.append(9)
 list.append(2)
-list.append(4)
-list.append(5)
-list.append(8)
-
 print(list)
+```
 
-list.pop()
+### **Resultado:**
+```
+[2, 9, 9, 7, 9, 2]
+```
+
+### **pop:**
+```py
+list = [1, 2, 9, 9, 7, 9, 2]
+print(list)
+list.pop(0)
+print(list)
 list.pop(3)
-
+print(list)
+list.pop()
 print(list)
 ```
-### **Result:**
-```
-```
 
-```sh
-[2, 9, 9, 7, 9, 2, 4, 5, 8]
-[2, 9, 9, 9, 2, 4, 5]
-
-Process finished with exit code 0
+### **Resultado:**
+```
+[1, 2, 9, 9, 7, 9, 2]
+[2, 9, 9, 7, 9, 2]
+[2, 9, 9, 9, 2]
+[2, 9, 9, 9]
 ```
 
 ---
 
-### **Code:**
+### **insert:**
 ```py
-list = [2, 9, 9]
-
-list.append(7)
+list = [9, 9, 9]
+list.insert(0, 2)
 print(list)
-list.append(9)
-print(list)
-list.append(2)
-print(list)
-list.append(4)
-print(list)
-list.append(5)
-print(list)
-list.append(8)
-print(list)
-
-list.pop()
-print(list)
-list.pop(3)
-print(list)
-
 list.insert(3, 7)
 print(list)
-list.insert(8, 8)
+list.insert(5, 2)
 print(list)
 ```
+
 ### **Result:**
 ```
-```
-
-```sh
-[2, 9, 9, 7]
+[2, 9, 9, 9]
 [2, 9, 9, 7, 9]
 [2, 9, 9, 7, 9, 2]
-[2, 9, 9, 7, 9, 2, 4]
-[2, 9, 9, 7, 9, 2, 4, 5]
-[2, 9, 9, 7, 9, 2, 4, 5, 8]
-[2, 9, 9, 7, 9, 2, 4, 5]
-[2, 9, 9, 9, 2, 4, 5]
-[2, 9, 9, 7, 9, 2, 4, 5]
-[2, 9, 9, 7, 9, 2, 4, 5, 8]
-
-Process finished with exit code 0
 ```
