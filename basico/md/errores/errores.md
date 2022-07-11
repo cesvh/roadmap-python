@@ -1,23 +1,20 @@
 # **Tratamiento de errores**
 
-### **Code:**
+### **try - except - finally:**
 ```py
 try:
-    a = 5
-    b = '0'
-    print(a / b)
+    num1 = 9
+    num2 = 0
+    result = num1 / num2
+    print(result)
 except:
-    print('Some error occurred.')
-
-print("Out of try except blocks.")
+    print("error")
+finally:
+    print("\nend")
 ```
-### **Result:**
-```
-```
-
+### **Resultado:**
 ```sh
-Some error occurred.
-Out of try except blocks.
+error
 
-Process finished with exit code 0
+end
 ```
