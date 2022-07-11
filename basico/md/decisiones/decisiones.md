@@ -45,3 +45,17 @@ else:
 ```
 else: Parsec
 ```
+
+---
+
+### **Operador ternario:**
+```py
+x = 1
+msg = "Mayor a 0" if x > 0 else "Menor o igual a 0"
+print(msg)
+```
+
+### **Resultado:**
+```
+Mayor a 0
+```

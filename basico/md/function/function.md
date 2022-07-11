@@ -1,34 +1,52 @@
 # **Funciones**
 
-### **Code:**
+### **Funciones base:**
 ```py
-def fncReturn(year):
-    return f'ly: {year}'
+def start():
+	print("Hello world")
 
+if __name__ == "__main__":
+	start()
+```
 
-def fncParam(name):
-    print(f'{name}')
-    ly = fncReturn(299)
-    print(ly)
+### **Resultado:**
+```
+Hello
+```
 
+### **Funciones con parámetros:**
+```py
+def main(msg):
+	print(msg)
 
 def start():
-    print("Hello hell")
-    fncParam('Pársec')
+	msg = "Hello"
+	main(msg)
 
-
-if __name__ == '__main__':
-    start()
+if __name__ == "__main__":
+	start()
 ```
 
-### **Result:**
+### **Resultado:**
 ```
+Hello world
 ```
 
-```sh
-Hello hell
-Pársec
-ly: 299
+### **Funciones con return:**
+```py
+def main(msg):
+	return f"The message is: {msg}"
 
-Process finished with exit code 0
+def start():
+	msg = "Hello"
+	new_msg = main(msg)
+	print(new_msg)
+
+if __name__ == "__main__":
+	start()
+```
+
+### **Resultado:**
+```
+The message is: Hello
 ```
