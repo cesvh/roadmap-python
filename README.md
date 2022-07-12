@@ -5,52 +5,52 @@ Sintaxis básica de python
 ```
 ---
 
-## **Programación estructurada**
+## **Programación lineal y estructurada**
 ### **Variables**
-* [Variables](basico/md/variables/variables.md)
+* [Variables](lineal-structured/md/variables/variables.md)
 
 ### **Entrada y salida de Datos**
-* [Datos](basico/md/io/datos.md)
-<!--    * [**PENDIENTE** - Entrada de datos](basico/md/)-->
-<!--    * [**PENDIENTE** - Salida de datos](basico/md/io/input/prompt.md)-->
+* [Datos](lineal-structured/md/io/datos.md)
+<!--    * [**PENDIENTE** - Entrada de datos](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Salida de datos](lineal-structured/md/io/input/prompt.md)-->
 
 ### **Operadores**
-* [Operadores](basico/md/operadores/operadores.md)
-<!--    * [**PENDIENTE** - Booleanos](basico/md/)-->
-<!--    * [**PENDIENTE** - Asignación](basico/md/)-->
-<!--    * [**PENDIENTE** - Relacionales o Comparación](basico/md/)-->
-<!--    * [**PENDIENTE** - Aritméticos](basico/md/)-->
-<!--    * [**PENDIENTE** - Incremento y decremento](basico/md/)-->
+* [Operadores](lineal-structured/md/operadores/operadores.md)
+<!--    * [**PENDIENTE** - Booleanos](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Asignación](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Relacionales o Comparación](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Aritméticos](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Incremento y decremento](lineal-structured/md/)-->
 
 ### **Control de flujo**
-* [Control de flujo](basico/md/decisiones/decisiones.md)
-<!--    * [**PENDIENTE** - If](basico/md/)-->
-<!--    * [**PENDIENTE** - If else](basico/md/)-->
-<!--    * [**PENDIENTE** - Switch](basico/md/)-->
-<!--    * [**PENDIENTE** - Ternario](basico/md/)-->
+* [Control de flujo](lineal-structured/md/decisiones/decisiones.md)
+<!--    * [**PENDIENTE** - If](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - If else](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Switch](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Ternario](lineal-structured/md/)-->
 
 ### **Ciclos**
-* [Ciclos](basico/md/ciclos/ciclos.md)
-<!--    * [**PENDIENTE** - While](basico/md/)-->
-<!--    * [**PENDIENTE** - Do/While](basico/md/)-->
-<!--    * [**PENDIENTE** - For](basico/md/)-->
+* [Ciclos](lineal-structured/md/ciclos/ciclos.md)
+<!--    * [**PENDIENTE** - While](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Do/While](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - For](lineal-structured/md/)-->
 
 ### **Estructura de datos básica**
-* [Estructura de datos](basico/md/estructura_de_datos/estructura_de_datos.md)
-<!--    * [**PENDIENTE** - Arreglos](basico/md/)
-<!--        * [**PENDIENTE** - Unidimensionales](basico/md/)-->
-<!--        * [**PENDIENTE** - Bidimensionales](basico/md/)-->
+* [Estructura de datos](lineal-structured/md/estructura_de_datos/estructura_de_datos.md)
+<!--    * [**PENDIENTE** - Arreglos](lineal-structured/md/)
+<!--        * [**PENDIENTE** - Unidimensionales](lineal-structured/md/)-->
+<!--        * [**PENDIENTE** - Bidimensionales](lineal-structured/md/)-->
 
 ### **Errores**
-* [Errores](basico/md/errores/errores.md)
+* [Errores](lineal-structured/md/errores/errores.md)
 
 ### **Funciones**
-* [Funciones](basico/md/function/function.md)
-<!--    * [**PENDIENTE** - Funciones con parámetros](basico/md/)-->
-<!--    * [**PENDIENTE** - Funciones con return](basico/md/)-->
+* [Funciones](lineal-structured/md/function/function.md)
+<!--    * [**PENDIENTE** - Funciones con parámetros](lineal-structured/md/)-->
+<!--    * [**PENDIENTE** - Funciones con return](lineal-structured/md/)-->
 
 ### **Ejercicios con los temas tratados hasta éste punto**
-* [Ejercicios](basico/md/ejercicios/ejercicios.md)
+* [Ejercicios](lineal-structured/md/ejercicios/ejercicios.md)
 <!-- --- -->
 
 <!-- [**PENDIENTE** - Lectura recomendada]() -->
