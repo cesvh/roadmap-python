@@ -54,3 +54,9 @@ Sintaxis básica de python
 <!-- --- -->
 
 <!-- [**PENDIENTE** - Lectura recomendada]() -->
+
+---
+
+## **Programación Orientada a Objetos**
+### **Clases**
+* [Clase y objeto](oop/class-object/main.py)
