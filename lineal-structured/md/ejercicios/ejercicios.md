@@ -15,10 +15,10 @@ def is_prime(number):
 
 def main():
     number = int(input("Number:"))
-    result = is_prime(number)
     if number < 1:
         print("Only positives number ")
     else:
+        result = is_prime(number)
         if result:
             print("Is prime")
         else:
