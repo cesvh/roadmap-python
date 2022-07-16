@@ -1,9 +1,13 @@
+# **Clases y objetos**
+
+### **Clase y objeto**
+```py
 class Person:
     def __init__(self, username):
         self.username = username
-    
+
     def printData(self):
-        print("\n-----\n-----Datas")
+        print("\n----------Datas")
         print(f"Username: {self.username}")
 
 
@@ -11,7 +15,7 @@ class Employee(Person):
     def __init__(self, username):
         super().__init__(username)
         self.level = "root"
-    
+
     def printData(self):
         super().printData()
         print(f"Level: {self.level}")
@@ -21,7 +25,7 @@ class Customer(Person):
     def __init__(self, username):
         super().__init__(username)
         self.level = "normal"
-    
+
     def printData(self):
         super().printData()
         print(f"Level: {self.level}")
@@ -36,3 +40,15 @@ if __name__ == "__main__":
     else:
         customer = Customer(user_name)
         customer.printData()
+```
+
+### **Resultado:**
+```sh
+Username: cesar
+Key: root
+
+----------Datas
+Username: cesar
+Level: root
+```
+

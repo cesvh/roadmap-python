@@ -59,6 +59,7 @@ Sintaxis básica de python
 
 ## **Programación Orientada a Objetos**
 ### **Clases**
-* [Clase y objeto](oop/class-object/main.py)
-* [Variables de clase](oop/class-object/variables_de_clase.py)
-* [Herencia](oop/herencia/main.py)
+* [Clase y objeto](oop/class-object/main.md)
+    * [Variables de clase](oop/class-object/variables_de_clase.md)
+    * [str](oop/class-object/str.md)
+* [Herencia](oop/herencia/main.md)
